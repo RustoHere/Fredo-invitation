@@ -30,7 +30,7 @@ window.weddingConfig = {
 
   /* ---------- TO'YXONA / MANZIL ---------- */
   venueName: "\"Yakkasaroy\" to'yxonasi",
-  venueAddress: "Denov tumani, Surxondaryo viloyati, Uzbekistan",
+  venueAddress: "Yakkasaroy to'yxonasi, Denov tumani, Surxondaryo viloyati",
 
   /* Google Xarita manzili qanday olinadi:
      1) Google Maps'da joyni toping -> "Share" -> "Embed a map" -> HTML kodidan
@@ -38,8 +38,8 @@ window.weddingConfig = {
      2) "Yo'nalish olish" tugmasi uchun oddiy Google Maps havolasini
         mapDirectionsUrl ga qo'ying (masalan, joy nomini qidiruv linki). */
   mapEmbedUrl:
-    "https://maps.google.com/maps?q=Yakkasaroy%20to'yxonasi%20Denov&t=&z=15&ie=UTF8&iwloc=&output=embed",
-  mapDirectionsUrl: "https://www.google.com/maps/search/?api=1&query=Yakkasaroy+to'yxonasi+Denov+Surxondaryo",
+    "https://maps.google.com/maps?q=38.288156,67.89018&z=16&ie=UTF8&iwloc=&output=embed",
+  mapDirectionsUrl: "https://www.google.com/maps/dir/?api=1&destination=38.288156,67.89018",
 
   /* ---------- RASMLAR ----------
      Rasmlaringizni "assets/images/" papkasiga qo'ying va nomini shu yerga yozing.
