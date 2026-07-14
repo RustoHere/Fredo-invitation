@@ -11,7 +11,7 @@ from PIL import Image, ImageDraw, ImageFont
 
 GROOM_NAME = "Aziz"
 BRIDE_NAME = "Malika"
-DATE_TEXT = "12-sentabr, 2026-yil"
+DATE_TEXT = "8-Avgust, 2026-yil"
 EYEBROW_TEXT = "TO'Y TAKLIFNOMASI"
 
 WIDTH, HEIGHT = 1200, 630
